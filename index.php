@@ -21,7 +21,7 @@
         <p>
             <?php
             if ($_GET['status'] == 'sukses') {
-                echo "Pendaftaran siswa baru berhasil!";
+                echo "Pendaftaran mahasiswa baru berhasil!";
             } else {
                 echo "Pendaftaran gagal!";
             }
